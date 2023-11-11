@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI ML CLOUD Services Azure AWS
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me github chat
+- 📫 How to reach me on github chat.... simple just a text away
 
 <!---
 P4ulius/P4ulius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
